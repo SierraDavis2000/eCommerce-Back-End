@@ -30,8 +30,7 @@ Please install the following npm packages to run this application:
  - express
  - mySQL2
  - sequelize 
- - dotenv
- - note: please follow the .env.EXMAPLE to link your database to your server
+ - dotenv (note: please follow the .env.EXMAPLE to link your database to your server)
 
 ## Walkthrough Videos
 
