@@ -34,7 +34,7 @@ Please install the following npm packages to run this application:
 
 ## Walkthrough Videos
 
-Walkthrough Video 1 (mySQL database creation, seed, start server.js)
+Walkthrough Video 1 (mySQL database creation, seed, invoke the application)
 
 https://drive.google.com/file/d/1ybjZn6RGK5C-_s_lvbKR6BrzhMc9cSCY/view
 
